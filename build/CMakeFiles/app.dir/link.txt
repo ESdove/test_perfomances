@@ -1,0 +1,1 @@
+/ucrt64/bin/cc.exe -Wl,--enable-auto-import -static CMakeFiles/app.dir/core.c.o -o /d/examples/performance_test/output/app.exe -Wl,--out-implib,/d/examples/performance_test/output/libapp.dll.a -Wl,--major-image-version,0,--minor-image-version,0

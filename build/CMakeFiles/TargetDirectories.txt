@@ -1,0 +1,4 @@
+/d/examples/performance_test/build/CMakeFiles/api.dir
+/d/examples/performance_test/build/CMakeFiles/app.dir
+/d/examples/performance_test/build/CMakeFiles/edit_cache.dir
+/d/examples/performance_test/build/CMakeFiles/rebuild_cache.dir

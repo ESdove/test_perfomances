@@ -1,0 +1,1 @@
+/ucrt64/bin/cc.exe -shared -Wl,--enable-auto-import -static -o /d/examples/performance_test/output/msys-api.dll -Wl,--out-implib,/d/examples/performance_test/output/libapi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 CMakeFiles/api.dir/core.c.o
